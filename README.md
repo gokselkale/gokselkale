@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **gokselkalekale@gmail.com**
 
+- My Patika.dev profile **https://app.patika.dev/gokselkale**
+
 - 📄 Know about my experiences [https://www.kariyer.net/ozgecmis-goruntule/?cvId=xq61U8spq3bq6zonm90Irg%3D%3D!e!](https://www.kariyer.net/ozgecmis-goruntule/?cvId=xq61U8spq3bq6zonm90Irg%3D%3D!e!)
 
 <h3 align="left">Connect with me:</h3>
