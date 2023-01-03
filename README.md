@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/goksellkale" target="blank"><img src="https://img.shields.io/twitter/follow/goksellkale?logo=twitter&style=for-the-badge" alt="goksellkale" /></a> </p>
 
-- 🌱 I’m currently learning **React.js and PHP Basics**
+- 🌱 I’m currently learning **React.js and PHP**
 
 - 💬 Ask me about **HTML, CSS and Javascript**
 
