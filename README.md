@@ -11,8 +11,6 @@
 
 - My Patika.dev profile **https://app.patika.dev/gokselkale**
 
-- 📄 Know about my experiences [https://www.kariyer.net/ozgecmis-goruntule/?cvId=xq61U8spq3bq6zonm90Irg%3D%3D!e!](https://www.kariyer.net/ozgecmis-goruntule/?cvId=xq61U8spq3bq6zonm90Irg%3D%3D!e!)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/goksellkale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goksellkale" height="30" width="40" /></a>
