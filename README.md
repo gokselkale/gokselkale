@@ -8,11 +8,5 @@ GitHub profilimde projelerimi paylaşarak gelişimimi ve yeteneklerimi gösterme
 
 Eğer benimle bir proje üzerinde işbirliği yapmak veya herhangi bir soru sormak isterseniz, lütfen benimle iletişime geçmekten çekinmeyin. Birlikte büyük şeyler başarabiliriz!
 
-Bana Ulaşın:
-
-[LinkedIn] https://www.linkedin.com/in/goksellkale/
-[E-posta] gokselkalekale@gmail.com
-Teşekkür ederim ve hoş geldiniz!
-
 Saygılarımla,
 Göksel Kale
